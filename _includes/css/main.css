@@ -445,5 +445,5 @@ footer .footer-below {
 }
 
 i.success { 
-   color: #{{ site.color.secondary }}; 
+   color: #{{ site.color.primary }}; 
 }
