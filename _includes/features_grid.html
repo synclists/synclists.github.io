@@ -1,0 +1,19 @@
+
+    <!-- Features Grid Section -->
+    <section id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Features</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {% for feature in site.feature %}
+                    <div class="col-sm-4 portfolio-item">
+                        <i class="fa {{ feature.icon }} fa-3x"></i>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
