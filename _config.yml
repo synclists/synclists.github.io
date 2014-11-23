@@ -5,13 +5,13 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #90B3FF
-  secondary: 2c3e50 #FD6E8A
+  primary: 18bc9c #80B3FF
+  secondary: 424F66 #2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
   
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: SyncLists
   location: Location
   social: Around the Web
   credits: Credits
@@ -31,11 +31,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
   
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'SyncLists is free to use, and can be downloaded from <a href="https://play.google.com/store">Google Play</a>.'
 
 # Build settings
 markdown: kramdown
