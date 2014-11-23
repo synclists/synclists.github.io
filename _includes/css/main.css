@@ -443,3 +443,7 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.spacer {
+    margin-top: 40px; /* define margin as you see fit */
+}
