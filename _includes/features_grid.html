@@ -12,6 +12,9 @@
                 {% for feature in site.feature %}
                     <div class="col-sm-12 col-lg-6">
                         <i class="fa {{ feature.icon }} fa-5x"></i>
+                        <div>
+                            {{ feature.desc }}
+                        </div>
                     </div>
                 {% endfor %}
             </div>
