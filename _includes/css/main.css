@@ -444,6 +444,18 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+.fa-8x { 
+    font-size: 8em;
+}
+
 .spacer {
-    margin-top: 40px; /* define margin as you see fit */
+    margin-top: 40px; 
+}
+
+.feature-desc-spacer {
+    margin-top: 60px; 
+}
+
+.feature-desc-size {
+    font-size: 2em; 
 }
