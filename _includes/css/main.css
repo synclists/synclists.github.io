@@ -443,7 +443,3 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
-
-i.success { 
-   color: #{{ site.color.primary }}; 
-}
