@@ -444,8 +444,8 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-.fa-8x { 
-    font-size: 8em;
+.fa-6x { 
+    font-size: 6em;
 }
 
 .spacer {
@@ -457,5 +457,5 @@ footer .footer-below {
 }
 
 .feature-desc-size {
-    font-size: 2em; 
+    font-size: 1.4em; 
 }
