@@ -28,3 +28,12 @@ feature:
     desc: "Quickly add tasks one after another."
   - icon: "fa-hand-o-up"
     desc: "Swipe effortlessly to complete tasks and delete lists."
+
+#team
+team:
+  - img: "img/team/adam.jpg"
+    name: "Adam Hopkins"
+  - img: "img/team/mitch.jpg"
+    name: "Mitch Stephan"
+  - img: "img/team/ethan.jpg"
+    name: "Ethan Poulter"
