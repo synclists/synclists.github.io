@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-20
+img: settings.png
+alt: Settings
+description: Customize SyncLists so it fits you!
+
+---

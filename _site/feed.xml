@@ -5,85 +5,73 @@
     <description>Getting things done. Together.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 23 Nov 2014 00:02:32 -0600</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2014 00:02:32 -0600</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2014 20:31:24 -0600</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2014 20:31:24 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Project 1</title>
+        <title>Login</title>
         <description>
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
-        <link>/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/18/project-1/</guid>
+        <pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate>
+        <link>/2014/07/25/login/</link>
+        <guid isPermaLink="true">/2014/07/25/login/</guid>
         
-        
-        <category>web development</category>
         
       </item>
     
       <item>
-        <title>Project 2</title>
+        <title>Lists</title>
         <description>
 </description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 -0500</pubDate>
-        <link>/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/17/project-2/</guid>
+        <pubDate>Thu, 24 Jul 2014 00:00:00 -0500</pubDate>
+        <link>/2014/07/24/lists/</link>
+        <guid isPermaLink="true">/2014/07/24/lists/</guid>
         
-        
-        <category>web development</category>
         
       </item>
     
       <item>
-        <title>Project 3</title>
+        <title>Tasks</title>
         <description>
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 -0500</pubDate>
-        <link>/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/16/project-3/</guid>
+        <pubDate>Wed, 23 Jul 2014 00:00:00 -0500</pubDate>
+        <link>/2014/07/23/tasks/</link>
+        <guid isPermaLink="true">/2014/07/23/tasks/</guid>
         
-        
-        <category>web development</category>
         
       </item>
     
       <item>
-        <title>Project 6</title>
+        <title>Share Lists</title>
         <description>
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
-        <link>/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/15/project-6/</guid>
+        <pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate>
+        <link>/2014/07/22/share-lists/</link>
+        <guid isPermaLink="true">/2014/07/22/share-lists/</guid>
         
-        
-        <category>web development</category>
         
       </item>
     
       <item>
-        <title>Project 4</title>
+        <title>Shared Users</title>
         <description>
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
-        <link>/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/15/project-4/</guid>
+        <pubDate>Mon, 21 Jul 2014 00:00:00 -0500</pubDate>
+        <link>/2014/07/21/shared-users/</link>
+        <guid isPermaLink="true">/2014/07/21/shared-users/</guid>
         
-        
-        <category>web development</category>
         
       </item>
     
       <item>
-        <title>Project 5</title>
+        <title>Settings</title>
         <description>
 </description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate>
-        <link>/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/14/project-5/</guid>
+        <pubDate>Sun, 20 Jul 2014 00:00:00 -0500</pubDate>
+        <link>/2014/07/20/settings/</link>
+        <guid isPermaLink="true">/2014/07/20/settings/</guid>
         
-        
-        <category>web development</category>
         
       </item>
     

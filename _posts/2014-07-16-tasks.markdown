@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-23
+img: tasks.png
+alt: Tasks
+description: Add, edit, complete, and delete tasks for each list!
+
+---

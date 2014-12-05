@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-25
+img: login.png
+alt: Login Page
+description: Sign up and sign in to begin collaborating!
+
+---
